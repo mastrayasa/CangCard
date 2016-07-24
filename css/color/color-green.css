@@ -1,0 +1,66 @@
+/* Color 1 */
+.feature2-box:hover, 
+.feature2-box:hover > .feature2-content > p.des,
+.feature2-box:hover >.feature2-icon,
+.resume-item h4,
+.post-format i,
+.pagination > li > a, .pagination > li > span,
+a{
+	color:#78be20;
+}
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus 
+{
+    background-color: #78be20;
+}
+ul.isotop-filter li a.active,
+.mtcss .showhide,
+.mtcstyleswitcher-header ,
+.carousel-indicators li.active,
+.toggle-menu,
+.socmed a,
+ul.hobby-list li div.hobby-icon,
+.service-box-3 .service-icon,
+.service-box-3:hover,
+.service-box:hover,
+.feature-box:hover
+{
+    background:#78be20;
+}
+.post-img  { 
+	border-bottom-color:#78be20;
+}
+.carousel-indicators li,
+.post-format{
+	border-color: #78be20;
+}
+
+.feature-box:hover > .feature-icon {
+	color:#78be20!important;
+}
+.feature2-box:hover > .feature2-content {
+    border-left-color: #78be20;
+}
+
+
+
+
+/* Color 2 */
+ul.isotop-filter li a:hover,
+ul.isotop-filter li a.active,
+.socmed a,
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+    border-color: #6daf1a;
+}
+ul.hobby-list li div.hobby-des,
+.mtcss .showhide:hover,
+.service-box-3:hover > .service-icon,
+.service-box:hover > .service-icon,
+.toggle-menu .btn{
+	background:#6daf1a;
+}
+.post:hover > .media > .mediaholder > a > .hovercover,
+article.work-isotop.isotop:hover > .work_thumb .mask,
+.box-portfolio:hover > div.overlay{
+	background:rgba(120,190,32,0.9);
+}
